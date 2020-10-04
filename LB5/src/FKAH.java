@@ -34,9 +34,9 @@ public class FKAH extends JFrame{
 		l5.setSize(200, 15); 
 		l5.setLocation(10,55); 
 		panel.add(l5); 
-		JLabel l6 = new JLabel("Хабибуллина Д.М. "); 
-		l6.setSize(175, 15); 
-		l6.setLocation(10,70); 
+		JLabel l6 = new JLabel("Хабибуллина Д.М.  dianamiltonmee@gmail.com"); 
+		l6.setSize(275, 15); 
+		l6.setLocation(10,180); 
 		panel.add(l6); 
 
 		JTextField t1 = new JTextField(""); 
