@@ -116,9 +116,11 @@ public class FKAH extends JFrame{
 	    infob.setVisible(true);
 	    infob.addActionListener(new ActionListener() {
 	    	@Override
-	        public void actionPerformed(ActionEvent e) {
-	        	
-	    }});
+	    	public void actionPerformed(ActionEvent e) {
+	    		JOptionPane.showMessageDialog(null,"https://github.com/18130159/projectFKAH","Info", JOptionPane.INFORMATION_MESSAGE);
+	    		}
+	    		 });
+
 	    panel.add(infob);
 		
 		panel.add(button2);
