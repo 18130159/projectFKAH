@@ -26,9 +26,9 @@ public class FKAH extends JFrame{
 		l2.setSize(175, 15); 
 		l2.setLocation(10,25); 
 		panel.add(l2); 
-		JLabel l4 = new JLabel("Купцова П.К. "); 
-		l4.setSize(175, 15); 
-		l4.setLocation(10,40); 
+		JLabel l4 = new JLabel("Купцова П.К. p.kuptsova@yandex.ru"); 
+		l4.setSize(230, 15); 
+		l4.setLocation(10,280); 
 		panel.add(l4); 
 		JLabel l5 = new JLabel("Альмухаметова Г.А.  gulshana2107@mail.ru"); 
 		l5.setSize(270, 15); 
